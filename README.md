@@ -15,3 +15,10 @@ mvn exec:java -Dexec.mainClass="de.frechmatz.nikolaus.Main"
 ```
 All solutions will be printed out.
 
+Tested with Maven 3.2.2, Java 1.8.0_45 on MacOS 10.10.4
+
+### Screenshots
+
+![Screenshot](https://raw.github.com/frechmatz/nikolaus/master/doc/screenshot.jpg)
+
+
