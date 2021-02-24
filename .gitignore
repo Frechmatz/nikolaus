@@ -3,4 +3,7 @@
 .settings
 *.db
 target/*
+.idea/*
+*.iml
+
 
